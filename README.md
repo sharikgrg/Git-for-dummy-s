@@ -5,8 +5,8 @@ Git is a version control software
 github stores users codes in the cloud and also allows multiple users to work on the same projects
 
 # Main Git and github commands
-- pwd                     (tells users their location)
-- ls or ll                (shows users a short or long list of directory they can open)
+- pwd(tells users their location)
+- ls or ll\\\\\\\\\\\\\\\\(shows users a short or long list of directory they can open)
 - ls -a                   (Shows hidden files)
 - clear                   (clears all the lines)
 - cd <directory name>     (opens the directory)
