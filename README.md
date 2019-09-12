@@ -6,6 +6,8 @@ github stores users codes in the cloud and also allows multiple users to work on
 
 # Main Git and github commands
 | pwd | (tells users their location) |
+| hello | bar   |
+| ----- | hello |
 | ls or ll | (shows users a short or long list of directory they can open) |
 - ls -a ------------------(Shows hidden files)
 - clear ------------------(clears all the lines)
