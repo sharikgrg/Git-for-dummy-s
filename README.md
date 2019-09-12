@@ -26,9 +26,9 @@ github stores users codes in the cloud and also allows multiple users to work on
 # .gitignore <file>
 This is a command where the Git is explicitly told to ignore the chosen file. This ensures that the chosen file is not pushed to github.
 To use this command:
-1) touch .gitignore
+1) on gitbash do touch .gitignore
 2) open .gitignore in atom
 3) type in the files needed to be ignored
 4) in my case, I have added a file.txt
 5) Push the git to github
-6)// wait for the magic to occur
+6) wait for the magic to occur
