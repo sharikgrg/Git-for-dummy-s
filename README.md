@@ -24,11 +24,11 @@ github stores users codes in the cloud and also allows multiple users to work on
 - git push <to> <from> = Pushes the master from local repo to github repo
 
 # .gitignore <file>
-this is a command where the Git is explicitly told to ignore the chosen file. This ensures that chosen file is not pushed to github.
-TO use this command:
-- touch .gitignore
-- open .gitignore in atom
-- type in the files needed to be ignored
-- in my case, I have added a file.txt
-- Push the git to github
-- wait for the magic to occur
+This is a command where the Git is explicitly told to ignore the chosen file. This ensures that the chosen file is not pushed to github.
+To use this command:
+1) touch .gitignore
+2) open .gitignore in atom
+3) type in the files needed to be ignored
+4) in my case, I have added a file.txt
+5) Push the git to github
+6)// wait for the magic to occur
