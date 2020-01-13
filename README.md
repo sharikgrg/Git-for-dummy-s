@@ -4,7 +4,7 @@ git is a version control software
 # What is github?
 github stores users codes in the cloud and also allows multiple users to work on the same projects
 
-# Main git and github commands
+# Main gitbash commands
 | git commands    | uses     |
 | :------------- | :------------- |
 | pwd       |  tells users their location  
